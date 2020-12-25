@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1608923323 source:c:\users\asus\documents\programmatioprocedural\exercices\mesprojet\language c\healthyme\main.c
+	<stdio.h>
+	<stdlib.h>
+	"source.h"
+
+1608912940 c:\users\asus\documents\programmatioprocedural\exercices\mesprojet\language c\healthyme\source.h
+
+1608838792 source:c:\users\asus\documents\programmatioprocedural\exercices\mesprojet\language c\healthyme\name.c
+	<stdio.h>
+	<stdlib.h>
+	"source.h"
+
+1608840018 source:c:\users\asus\documents\programmatioprocedural\exercices\mesprojet\language c\healthyme\calories.c
+	<stdio.h>
+	<stdlib.h>
+	"source.h"
+
+1608922110 source:c:\users\asus\documents\programmatioprocedural\exercices\mesprojet\language c\healthyme\trainingplan.c
+	<stdio.h>
+	<stdlib.h>
+	"source.h"
+
